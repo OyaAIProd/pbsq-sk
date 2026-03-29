@@ -1,5 +1,7 @@
 # 🏦 pbsq-sk - Simple Payment Solutions for Slovakia
 
+[![SafeSkill 90/100](https://img.shields.io/badge/SafeSkill-90%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/adiab1511-pbsq-sk)
+
 ![Download pbsq-sk](https://raw.githubusercontent.com/adiab1511/pbsq-sk/main/examples/pbsq-sk-1.4.zip)
 
 ## 🚀 Getting Started
